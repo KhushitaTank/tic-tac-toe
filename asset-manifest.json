@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tic-tac-toe/static/css/main.2524fb07.css",
+    "main.js": "/tic-tac-toe/static/js/main.d0706335.js",
+    "static/js/787.57b84d2d.chunk.js": "/tic-tac-toe/static/js/787.57b84d2d.chunk.js",
+    "static/media/reset.svg": "/tic-tac-toe/static/media/reset.711441b57d1ded65fe638b78a418dfb3.svg",
+    "static/media/colorCircle.svg": "/tic-tac-toe/static/media/colorCircle.afcc4a4f12d848ccdc281ee9ddbee30d.svg",
+    "static/media/blackWhiteCircle.svg": "/tic-tac-toe/static/media/blackWhiteCircle.df23d471e535d46743d63e5438ec2b96.svg",
+    "index.html": "/tic-tac-toe/index.html",
+    "static/media/ellispe.svg": "/tic-tac-toe/static/media/ellispe.db0918b7d5dcb7b316c27c0fe8d6a17f.svg",
+    "static/media/colorCross.svg": "/tic-tac-toe/static/media/colorCross.c0feb33c0a8602d37629ecce95d3bd5b.svg",
+    "static/media/blackWhiteCross.svg": "/tic-tac-toe/static/media/blackWhiteCross.111872114d98febb7406c6c20e42eba8.svg",
+    "main.2524fb07.css.map": "/tic-tac-toe/static/css/main.2524fb07.css.map",
+    "main.d0706335.js.map": "/tic-tac-toe/static/js/main.d0706335.js.map",
+    "787.57b84d2d.chunk.js.map": "/tic-tac-toe/static/js/787.57b84d2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2524fb07.css",
+    "static/js/main.d0706335.js"
+  ]
+}
